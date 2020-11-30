@@ -15,3 +15,9 @@
 **Thoughts:** I struggled a little with some TF tools, but I figured out the flow. Overall, It was really good learning, I enjoyed it.
 
 **Link to work:** [--coming--](https://www.github.com)
+
+### Day2: November 30, 2020
+
+**Today's Progress:** Training Process, Epochs, Overfitting, Input Function, Creating Model, Training Model and Making Prediction using model, that means I finished the Linear Regression Part.
+**Thoughts:** It was seemingly complicated to understand the Input Function, but I am on track. Other's were easy, I enjoyed coding.
+**Link to work:** [--comming--](https://www.github.com)
