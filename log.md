@@ -19,5 +19,17 @@
 ### Day2: November 30, 2020
 
 **Today's Progress:** Training Process, Epochs, Overfitting, Input Function, Creating Model, Training Model and Making Prediction using model, that means I finished the Linear Regression Part.
+
 **Thoughts:** It was seemingly complicated to understand the Input Function, but I am on track. Other's were easy, I enjoyed coding.
+
 **Link to work:** [--comming--](https://www.github.com)
+
+### Day3: December 1, 2020
+
+**Today's Progress:** Overviewed to Classification, explored Iris dataset, followed the process as in Regression: created train and test datasets, explored daa, created Input Function, created Feature column, built a model, train model and test model. One new thing was choosing a classifier, chose as suggested DNNClassifier(Deep Neural Network) over LinearClassifier.
+
+**Thoughts:** It's still hard for me to understand the Input Function, but I am learning. Other's were easy and enjoying.
+
+**Link to work:** [--comming--](https://www.github.com)
+
+
