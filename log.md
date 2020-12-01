@@ -26,7 +26,7 @@
 
 ### Day3: December 1, 2020
 
-**Today's Progress:** Overviewed to Classification, explored Iris dataset, followed the process as in Regression: created train and test datasets, explored daa, created Input Function, created Feature column, built a model, train model and test model. One new thing was choosing a classifier, chose as suggested DNNClassifier(Deep Neural Network) over LinearClassifier.
+**Today's Progress:** Overviewed to Classification, explored Iris dataset, followed the process as in Regression: created train and test datasets, explored daa, created Input Function, created Feature column, built a model, train model and test model. One new thing was choosing a classifier, chose as suggested DNNClassifier(Deep Neural Network) over LinearClassifier. And yeah, 'steps' for training data, last time we used 'epochs' in Regression.
 
 **Thoughts:** It's still hard for me to understand the Input Function, but I am learning. Other's were easy and enjoying.
 
