@@ -32,4 +32,12 @@
 
 **Link to work:** [--comming--](https://www.github.com)
 
+### Day4: December 2, 2020
+
+**Today's Progress:** Finished Clustering part, explored Clustering Concepts: Centroids, Euclidean Distance/Manhatten Distance, Center of Mass, KMeans Algorithm for clustering. Finished Hidden Markov Model part: explored Probablity Distribution, Stetes-Observation-Transition(components of HMM), Observation-Transition Probablity, set-up for Markov Model, created Weather Model as given in TensorFlow official docs, Evaluted the model.
+
+**Thoughts:** There's problem in Tensorflow 2, so we need to write KMeans Clustering algorithms from scratch, so just explored theritically, and also because of upgraded version of Tensorflow we needed "tensorflow_probablity" to be upgraded. These were the kind of new, but other's were worked out. I am okay, I am enjoying. 
+
+**Link to work:** [--comming--](https://www.github.com)
+
 
