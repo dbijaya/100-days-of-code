@@ -40,4 +40,12 @@
 
 **Link to work:** [--comming--](https://www.github.com)
 
+### Day5: December 3, 2020
+
+**Today's Progress:** Overviewed the the Neutral Network basics. Topics Covered: Neural Network Intro, Input Layer, Hidden Layer, Output Layer, Weights, Bias, Activation Function(Rectified Linear Unit:Relu, Hyperbolic Tangent: Tanh and Sigmoid), Loss/Cost Function and Gradient Descent.
+
+**Thoughts:** Activation Function, Loss Function, Gradient Descend, these were the hard topic to understand, but still I'm making my way. Its a Tubular day !!
+
+**Link to work:** [--comming--](https://www.github.com)
+
 
