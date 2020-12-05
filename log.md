@@ -48,4 +48,11 @@
 
 **Link to work:** [--comming--](https://www.github.com)
 
+### Day6: December 4, 2020
+
+**Today's Progress:** Created the Neural Network with Data-preprocessing, Model, Compile the Model with Hyper-Parametes (optimizer, loss-function and matrics), Traiing Model, Evaluation of model and Make Prediction.
+
+**Thoughts:** Among all of these steps, I think Data-Preprocessing is the hardest one.
+
+**Link to work:** [--comming--](https://www.github.com)
 
